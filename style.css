@@ -20,16 +20,26 @@
     width: 100px;
     height: 100px;
     background: red;
-    transition: display 3s;
+    transition: background-color 2s linear;
 }
 .ex-5-square {
     margin: 20px;
     width: 60px;
     height: 60px;
     background: red;
+    transition: transform 2s;
 }
 .ex-6-img, .ex-7-img, .ex-8-img {
     width: 500px;
+
+}
+
+.ex-7-img {
+    transition: filter 2s;
+}
+
+.ex-8-img {
+    
 }
 
 .ex-9-img {
