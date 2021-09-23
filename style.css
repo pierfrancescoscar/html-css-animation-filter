@@ -55,6 +55,7 @@
 }
 .ex-10-icon {
     font-size: 60px;
+    animation: rotate 3s linear infinite;
 }
 .ex-11-icon {
     font-size: 60px;

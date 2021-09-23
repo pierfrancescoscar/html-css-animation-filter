@@ -48,6 +48,15 @@
     transform: scale(1.5);
 }
 
+@keyframes rotate {
+    from { 
+        transform: rotate(359deg);
+
+    }
+   to {
+       transform: rotate(-359deg);
+   } 
+}
 
 
 
